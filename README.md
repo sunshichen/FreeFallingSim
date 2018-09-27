@@ -1,6 +1,8 @@
 # FreeFallingSim
 This project is for graphics class. Using WebGL and three.js
 
+[github repository](https://github.com/sunshichen/FreeFallingSim.git)
+
 
 ## Getting Started
 Clone this repository.
